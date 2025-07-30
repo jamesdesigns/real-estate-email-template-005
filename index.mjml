@@ -2,7 +2,7 @@
   <mj-body background-color="#d7dde5">
     <mj-section full-width="full-width">
       <mj-column width="66.66666666666666%" vertical-align="middle">
-        <mj-text align="left" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">[[HEADLINE]]</span></mj-text>
+        <mj-text align="left" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">Prestigious Palm Springs Estate: Now Available</span></mj-text>
       </mj-column>
       <mj-column width="33.33333333333333%" vertical-align="middle">
         <mj-text align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="https://mjml.io" style="text-decoration: none; color: inherit;">[[PERMALINK_LABEL]]</a></span></mj-text>
@@ -20,8 +20,8 @@
     </mj-section>
     <mj-section background-url="http://191n.mj.am/img/191n/1t/h0.jpg" vertical-align="middle" background-size="cover" full-width="full-width" background-repeat="no-repeat">
       <mj-column width="100%" vertical-align="middle">
-        <mj-text align="center" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="45px"><span style="font-size: 30px; line-height: 30px;">BEAUTIFUL <span style="font-weight:bold">PRIVATE ESTATE</span></span><br /><br />OFFERED AT $1,850,000</mj-text>
-        <mj-button align="center" background-color="#e85034" color="#fff" border-radius="24px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="45px" padding-top="10px">VIEW LISTING</mj-button>
+        <mj-text align="center" font-size="18px" color="#45474e" padding-bottom="10px" padding-top="45px"><span style="font-size: 30px; line-height: 30px;">BEAUTIFUL <span style="font-weight:bold">PRIVATE ESTATE</span></span><br /><br />OFFERED AT $4,850,000</mj-text>
+        <mj-button align="center" background-color="#fff" color="#222" border-radius="24px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="45px" padding-top="10px">VIEW LISTING</mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" vertical-align="top" full-width="full-width">
@@ -38,10 +38,11 @@
         <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="3px"><span style="font-size: 14px; color: #e85034">24/7 Support</span><br /><br />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend sagittis nunc, et fermentum est ullamcorper dignissim.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#e85034" vertical-align="middle" full-width="full-width">
+    <mj-section background-color="#222222" vertical-align="middle" full-width="full-width">
       <mj-column width="100%" vertical-align="middle">
         <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="10px">Why choose us?</mj-text>
-        <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        <mj-di
+        der border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
         <mj-text align="center" color="#f8d5d1" font-size="11px" padding-bottom="25px">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Lorem ipsum dolor sit amet, consectetur adipiscing
           elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</mj-text>
       </mj-column>
