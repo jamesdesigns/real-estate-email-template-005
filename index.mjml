@@ -10,7 +10,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" full-width="full-width">
       <mj-column width="40%" vertical-align="middle">
-        <mj-image src="alexis-realty-logo.png" width="275px" height="61px" alt="Alexis Realty" padding-bottom="0px" padding-top="0px"></mj-image>
+        <mj-image src="alexis-realty-logo.png" width="275px" height="36px" alt="Alexis Realty" padding-bottom="0px" padding-top="0px"></mj-image>
       </mj-column>
       <mj-column width="60%" vertical-align="middle">
         <mj-text align="center" padding-bottom="0px" padding-top="10px"><a href="https://mjml.io" style="text-decoration: none; color: #333;">Home</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<a href="https://mjml.io" style="text-decoration: none; color: inherit;">Features</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
