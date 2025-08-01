@@ -1,84 +1,222 @@
 <mjml>
-  <mj-body background-color="#d7dde5">
-    <mj-section full-width="full-width">
-      <mj-column width="66.66666666666666%" vertical-align="middle">
-        <mj-text align="left" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 12px">Tina Dimadayan | Real Estate Agent </span></mj-text>
-      </mj-column>
-      <mj-column width="33.33333333333333%" vertical-align="middle">
-        <mj-text align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 12px"><a href="https://mjml.io" style="text-decoration: none; color: inherit;">(888) 555-0000</a></span></mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" full-width="full-width">
-      <mj-column width="40%" vertical-align="middle">
-        <mj-image src="alexis-realty-logo.png" width="275px" height="36px" alt="Alexis Realty" padding-bottom="0px" padding-top="0px"></mj-image>
-      </mj-column>
-      <mj-column width="60%" vertical-align="middle">
-        <mj-text align="center" padding-bottom="0px" padding-top="10px"><a href="https://mjml.io" style="text-decoration: none; color: #333;">Home</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<a href="https://mjml.io" style="text-decoration: none; color: inherit;">Features</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
-          <a href="https://mjml.io" style="text-decoration: none; color: inherit;">Portfolio</a>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-url="https://images.unsplash.com/photo-1707190205033-0767916ca3ca?q=80&w=2666&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" vertical-align="middle" background-size="cover"  background-position="center middle" background-color="rgba(0, 0, 0, 0.7)" full-width="full-width" background-repeat="no-repeat">
-      <mj-column width="95%" vertical-align="middle">
-        <mj-text align="center" font-size="18px" font-weight="300" color="#fff" padding-bottom="10px" padding-top="45px"><span style="font-size: 30px; line-height: 30px;">EXCLUSIVE <span style="font-weight:bold">OPPORTUNITY</span></span><br /><br />This stunning Palm Springs property just hit the market and won't last long. Prime location, breathtaking mountain views, and priced to move<br/><br/><span style="font-size:20px;font-weight:bold;">OFFERED AT $4,850,000</span></mj-text>
-        <mj-button align="center" background-color="#fff" color="#222" border-radius="3px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="45px" padding-top="10px">VIEW LISTING</mj-button>
-      </mj-column>
-    </mj-section>
-      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="40px">
-        <mj-column width="50%">
-          <mj-image align="center" src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153577/Email/Images/AnnouncementOffset/Image_1.png" alt="" />
-        </mj-column>
-        <mj-column width="50%">
-          <mj-image align="center" src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153578/Email/Images/AnnouncementOffset/Image_2.png" alt="" />
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
-        <mj-column width="100%">
-          <mj-divider border-color="#DFE3E8" border-width="1px" />
-        </mj-column>
-      </mj-section>
-    <mj-section background-color="#ffffff" vertical-align="top" full-width="full-width">
-      <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="http://191n.mj.am/img/191n/1t/hs.png" alt="" width="50px"></mj-image>
-        <mj-text align="left" color="#9da3a3" font-size="12px" padding-bottom="30px"><span style="font-size: 14px; color: #222"> Exclusive Opportunity</span><br /><br />This stunning Palm Springs property just hit the market and won't last long. Prime location, breathtaking mountain views, and priced to move at $4,850,000.</mj-text>
-      </mj-column>
-      <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="http://191n.mj.am/img/191n/1t/hm.png" alt="" width="50px"></mj-image>
-        <mj-text align="left" color="#9da3a3" font-size="12px" padding-bottom="30px"><span style="font-size: 14px; color: #222">Act Fast</span><br /><br />Properties like this typically sell within 7-14 days in this market. Schedule your private showing today before it's gone.</mj-text>
-      </mj-column>
-      <mj-column vertical-align="top" width="33.33333333333333%">
-        <mj-image src="http://191n.mj.am/img/191n/1t/hl.png" alt="" width="50px"></mj-image>
-        <mj-text align="left" color="#9da3a3" font-size="12px" padding-bottom="30px" padding-top="3px"><span style="font-size: 14px; color: #222">Direct Access</span><br /><br />Skip the competition - call Tina directly at (888) 555-0000 for immediate access and insider market insights.</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#283f70" vertical-align="middle" full-width="full-width">
-      <mj-column width="100%" vertical-align="middle">
-        <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="10px">Why choose us?</mj-text>
-        <mj-di
-        der border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
-        <mj-text align="center" color="#f8d5d1" font-size="11px" padding-bottom="25px">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Lorem ipsum dolor sit amet, consectetur adipiscing
-          elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</mj-text>
-      </mj-column>
-    </mj-section>
+  <mj-head>
+    <mj-title>Exclusive Luxury Properties - Your Dream Home Awaits</mj-title>
+    <mj-preview>Discover exceptional luxury properties in prime locations. Schedule your private viewing today.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" />
+      <mj-text font-weight="400" font-size="16px" color="#2C3E50" line-height="24px" />
+      <mj-button font-weight="600" font-size="16px" color="#ffffff" background-color="#D4AF37" border-radius="6px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .luxury-gold { color: #D4AF37 !important; }
+      .luxury-dark { color: #2C3E50 !important; }
+      .price-highlight { font-size: 28px !important; font-weight: 700 !important; color: #D4AF37 !important; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f8f9fa">
     
-    <mj-section vertical-align="middle" background-color="#ffffff" full-width="full-width">
-      <mj-column width="50%" vertical-align="middle">
-        <mj-image src="https://plus.unsplash.com/premium_photo-1661660106241-c9233669ed39?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" padding-bottom="20px" padding-top="20px"></mj-image>
-      </mj-column>
-      <mj-column width="50%" vertical-align="middle">
-        <mj-text align="left" color="#9da3a3" font-size="12px" padding-bottom="25px" padding-top="25px"><span style="font-weight: bold; font-size: 14px; color: #45474e">Meet Tina Dimadayan</span><br /><br />Tina Dimadayan delivers exceptional results with her market expertise and personalized service. With Tina's proven track record and dedication, achieving your real estate goals has never been easier.</mj-text>
-        <mj-button align="left" background-color="#1f5bbb" color="#fff" border-radius="3px" font-size="11px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="45px" padding-top="10px">READ MORE</mj-button>
-      </mj-column>
-    </mj-section>
-    <mj-section full-width="full-width">
-      <mj-column width="100%" vertical-align="middle">
-        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0px">
-          <p style="font-size: 11px">[[DELIVERY_INFO]]</p>
+    <!-- Header -->
+    <mj-section background-color="#fff" padding="20px 0">
+      <mj-column>
+        <mj-text align="center" color="#D4AF37" font-size="32px" font-weight="700" padding-bottom="0px">
+          <img src="alexis-realty-logo.png" width="250" alt="Real Estate Logo" />
         </mj-text>
-        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0px">
-          <p style="font-size: 11px">[[POSTAL_ADDRESS]]</p>
+        <mj-text align="center" color="#333" font-size="16px" font-weight="300">
+          Luxury Real Estate Specialists
         </mj-text>
       </mj-column>
     </mj-section>
+
+    <!-- Hero Section -->
+    <mj-section background-url="https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" background-size="cover" padding="100px 0">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="48px" font-weight="700" padding-bottom="20px">
+          New Listing
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="20px" font-weight="300" padding-bottom="30px">
+          Discover exceptional luxury properties in the most coveted locations
+        </mj-text>
+        <mj-button href="#" background-color="#D4AF37" color="#2C3E50" font-size="18px" font-weight="600" padding="15px 40px">
+          EXPLORE PROPERTIES
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Featured Property -->
+    <mj-section background-color="#ffffff" padding="60px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="36px" font-weight="700" color="#2C3E50" padding-bottom="10px">
+          Featured Property
+        </mj-text>
+        <mj-text align="center" font-size="18px" color="#666666" padding-bottom="40px">
+          Handpicked for the discerning buyer
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0 20px 40px">
+      <mj-column width="50%">
+        <mj-image src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2075&q=80" alt="Luxury Modern Villa" border-radius="8px" />
+      </mj-column>
+      <mj-column width="50%" padding-left="30px">
+        <mj-text font-size="28px" font-weight="700" color="#2C3E50" padding-bottom="15px">
+          Modern Hillside Villa
+        </mj-text>
+        <mj-text font-size="16px" color="#666666" padding-bottom="15px">
+          Beverly Hills, CA
+        </mj-text>
+        <mj-text css-class="price-highlight" padding-bottom="20px">
+          $12,500,000
+        </mj-text>
+        <mj-text font-size="16px" color="#666666" line-height="24px" padding-bottom="25px">
+          • 6 Bedrooms, 8 Bathrooms<br/>
+          • 8,500 sq ft of luxury living<br/>
+          • Infinity pool with city views<br/>
+          • Smart home technology<br/>
+          • Private wine cellar
+        </mj-text>
+        <mj-button href="#" background-color="#2C3E50" color="#ffffff" font-size="16px" padding="12px 30px">
+          VIEW DETAILS
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Market Insights -->
+    <mj-section background-color="#f8f9fa" padding="60px 20px 30px">
+      <mj-column>
+        <mj-text align="center" font-size="36px" font-weight="700" color="#2C3E50" padding-bottom="0">
+          Market Insights
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f8f9fa" padding="0 20px 40px">
+      <mj-column width="33.33%">
+        <mj-text align="center" font-size="32px" font-weight="700" color="#D4AF37" padding-bottom="10px">
+          23%
+        </mj-text>
+        <mj-text align="center" font-size="16px" color="#2C3E50" font-weight="600" line-height="1.2">
+          Luxury Market Growth
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" font-size="32px" font-weight="700" color="#D4AF37" padding-bottom="10px">
+          18
+        </mj-text>
+        <mj-text align="center" font-size="16px" color="#2C3E50" font-weight="600"  line-height="1.2">
+          Days Average Sale
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" font-size="32px" font-weight="700" color="#D4AF37" padding-bottom="10px">
+          $2.8M
+        </mj-text>
+        <mj-text align="center" font-size="16px" color="#2C3E50" font-weight="600"  line-height="1.2">
+          Average Sale Price
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Properties Grid -->
+    <mj-section background-color="#ffffff" padding="60px 20px 40px">
+      <mj-column>
+        <mj-text align="center" font-size="36px" font-weight="700" color="#2C3E50" padding-bottom="40px">
+          Exceptional Properties
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0 20px 20px">
+      <mj-column width="50%" padding-right="10px">
+        <mj-image src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2053&q=80" alt="Oceanfront Estate" border-radius="8px" />
+        <mj-text font-size="20px" font-weight="600" color="#2C3E50" padding="15px 0 5px">
+          Oceanfront Estate
+        </mj-text>
+        <mj-text font-size="16px" color="#666666" padding-bottom="5px">
+          Malibu, CA
+        </mj-text>
+        <mj-text font-size="24px" font-weight="700" color="#D4AF37">
+          $18,900,000
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" padding-left="10px">
+        <mj-image src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80" alt="Contemporary Mansion" border-radius="8px" />
+        <mj-text font-size="20px" font-weight="600" color="#2C3E50" padding="15px 0 5px">
+          Contemporary Mansion
+        </mj-text>
+        <mj-text font-size="16px" color="#666666" padding-bottom="5px">
+          Manhattan, NY
+        </mj-text>
+        <mj-text font-size="24px" font-weight="700" color="#D4AF37">
+          $25,500,000
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- CTA Section -->
+    <mj-section background-color="#2C3E50" padding="60px 20px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="32px" font-weight="700" padding-bottom="20px">
+          Ready to Find Your Dream Home?
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="18px" font-weight="300" padding-bottom="30px">
+          Schedule a private consultation with our luxury specialists
+        </mj-text>
+        <mj-button href="#" background-color="#D4AF37" color="#2C3E50" font-size="18px" font-weight="600" padding="15px 40px">
+          SCHEDULE CONSULTATION
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Testimonial -->
+    <mj-section background-color="#ffffff" padding="60px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="24px" font-style="italic" color="#666666" line-height="32px" padding-bottom="20px">
+          "Working with Prestigious Estates was an exceptional experience. They understood exactly what we were looking for and delivered beyond our expectations."
+        </mj-text>
+        <mj-text align="center" font-size="16px" font-weight="600" color="#2C3E50">
+          — Sarah & Michael Chen, Beverly Hills
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Contact Information -->
+    <mj-section background-color="#f8f9fa" padding="40px 20px">
+      <mj-column width="50%">
+        <mj-text font-size="18px" font-weight="600" color="#2C3E50" padding-bottom="15px">
+          Contact Your Agent
+        </mj-text>
+        <mj-text font-size="16px" color="#666666" line-height="24px">
+          <strong>Alexandra Sterling</strong><br/>
+          Luxury Real Estate Specialist<br/>
+          📞 (555) 123-4567<br/>
+          ✉️ alexandra@prestigiousestates.com
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text font-size="18px" font-weight="600" color="#2C3E50" padding-bottom="15px">
+          Follow Us
+        </mj-text>
+        <mj-social font-size="15px" icon-size="20px" mode="horizontal">
+          <mj-social-element name="instagram" href="#" background-color="#E4405F" />
+          <mj-social-element name="facebook" href="#" background-color="#3b5998" />
+          <mj-social-element name="linkedin" href="#" background-color="#0077b5" />
+          <mj-social-element name="twitter" href="#" background-color="#1da1f2" />
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#2C3E50" padding="30px 20px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="14px" line-height="20px">
+          PRESTIGIOUS ESTATES<br/>
+          123 Luxury Lane, Beverly Hills, CA 90210<br/>
+          <a href="#" style="color: #D4AF37; text-decoration: none;">Unsubscribe</a> | 
+          <a href="#" style="color: #D4AF37; text-decoration: none;">Privacy Policy</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
   </mj-body>
 </mjml>
